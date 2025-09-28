@@ -29,7 +29,7 @@ It demonstrates academic exposure to **distributed data processing** using Spark
 
 ## 📌 Notes
 - This work was completed as part of the **UBC MDS curriculum**.  
-- Data is synthetic (customer/order, student/course) and used for **academic demonstration only**.  
+- Data is synthetic.  
 - Not production code, but demonstrates proficiency with **Spark, Databricks, Scala, and Cassandra**.  
 
 ---
