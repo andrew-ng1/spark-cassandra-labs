@@ -1,4 +1,4 @@
-# UBC MDS Coursework – Spark (PySpark & Scala) & Cassandra
+# UBC MDS Distributed Systems Coursework – Spark (PySpark & Scala) & Cassandra
 
 This repository contains selected coursework completed during my **Master of Data Science (MDS) at the University of British Columbia**.  
 It demonstrates academic exposure to **distributed data processing** using Spark (PySpark & Scala in Databricks) and **NoSQL database design** using Cassandra.  
