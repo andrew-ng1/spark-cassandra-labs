@@ -6,8 +6,9 @@ It demonstrates academic exposure to **distributed data processing** using Spark
 ---
 
 ## 🔹 Spark (PySpark & Scala)
-- Built **distributed ETL pipelines** on customer/order datasets using **PySpark** and **Scala** within Databricks.  
-- Practiced **joins, filtering, and aggregations** on large-scale data.  
+- Used **Scala in Databricks** to generate synthetic customer/order datasets.  
+- Built **distributed ETL pipelines** on this data using **PySpark**.  
+- Practiced **joins, filtering, and aggregations** in a distributed environment.  
 - Gained hands-on experience with **cluster-based data processing** and **Databricks notebooks**.  
 
 ---
